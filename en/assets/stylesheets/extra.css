@@ -1,5 +1,10 @@
 :root {
   .md-button--primary {
-    color: #ffc105;
+    color: #ffc105 !important; 
   }
+  .mdx-hero .md-button--primary {
+    background-color: var(--md-primary-bg-color);
+    border-color: var(--md-primary-bg-color);
+    color: #ffc105;
+}
 }
