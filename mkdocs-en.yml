@@ -4,9 +4,7 @@ site_url: https://docs.hugai.dev/en
 docs_dir: docs-en
 
 # Configuración de idioma nativo de MkDocs Material
-theme:
-  language: en
-  name: material
+
 
 extra:
   alternate:
